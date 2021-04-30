@@ -7,4 +7,4 @@ I am Phani Srikanth and I am from India.
 - 💬 Ask me about Data Science / Building Career Paths / Storytelling / Interesting People on Internet / Systems Thinking.
 - 📫 How to reach me: [Twitter](https://www.twitter.com/phanisrikanth33) / [LinkedIn](https://www.linkedin.com/in/phanisrikanth/) / [Microsoft](https://www.microsoft.com/en-us/research/people/phsrikan/)
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I never uttered a word until I was 3 years.
+- ⚡ Fun fact: I never uttered a word until I turned 3.
