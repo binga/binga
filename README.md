@@ -2,8 +2,7 @@
 
 I am Phani Srikanth and I am from India.
 
-- 🔭 I’m currently an Applied Scientist at NetApp building next-gen compliance and governance systems for Enterprises using AI.
-- 💬 Ask me about Data Science / Building Career Paths / Storytelling / Interesting People on Internet / Systems Thinking.
-- 📫 How to reach me: [Twitter](https://www.twitter.com/phanisrikanth33) / [LinkedIn](https://www.linkedin.com/in/phanisrikanth/) / [Microsoft](https://www.microsoft.com/en-us/research/people/phsrikan/)
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I never uttered a word until I turned 3.
+- 🔭 I’m currently an Applied Scientist / Research Lead at NetApp building ML/AI models for data compliance and governance for Enterprises. Specifically, I build and help build AI systems for data classification, sensitive data detection, information retrieval with research investments in synthetic data creation with LLMs, multimodality and multilinguality, inference optimizations and AI agents for speeding up laborious tasks.
+- 💬 Happy to talk about Data Science / Building Career Paths / Storytelling / Interesting People on Internet / Systems Thinking.
+- 📫 How to reach me: [Twitter](https://www.twitter.com/phanisrikanth33) / [LinkedIn](https://www.linkedin.com/in/phanisrikanth/)
+- ⚡ Fun fact about me: I never uttered a word until I turned 3.
